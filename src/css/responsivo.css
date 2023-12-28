@@ -1,6 +1,15 @@
-@media (max-width: 576px) {
+@media (max-width: 375px) {
   .content {
-    background-color: blue;
-    width: 400px;
+    width: 90%;
+  }
+
+  .content .subtitle {
+    width: 250px;
+    font-size: 1.5rem;
+  }
+
+  .content .line {
+    width: 290px;
+    height: 15px;
   }
 }
